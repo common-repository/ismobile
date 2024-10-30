@@ -1,0 +1,16 @@
+
+#ismobile h1.ismobile-heading { display: inline-block; margin-right: 5px; margin-left: 0; margin-bottom: .5em; }
+
+#ismobile .ismobile-sub { padding: 10px 0 8px; line-height: 180%; }
+
+#ismobile .shortcode { font-size: 18px; }
+
+#ismobile .card { font-size: 14px; }
+
+#ismobile .card dl { width: 100%; overflow: hidden; padding: 0; margin: 0; }
+#ismobile .card dt { float: left; width: 20%; min-width: 100px; padding: 0; margin: 0; font-weight: bolder; font-size: 16px; }
+#ismobile .card dd { float: left; width: 80%; padding: 0; margin: 0 0 20px 0; }
+
+#ismobile .card h3.subtitle { padding-left: 0; color: #23282d; font-weight: 600; font-size: 1.1em; }
+#ismobile .card p { margin: 1em 0 2em 0; }
+

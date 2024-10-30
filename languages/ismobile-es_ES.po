@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress isMobile() Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-28 19:20+0000\n"
+"PO-Revision-Date: 2018-10-09 10:16+0000\n"
+"Last-Translator: jairo <jairo@me.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ismobile-shortcode.php:68
+msgid "Matches !"
+msgstr "¡Hay coincidencias!"
+
+#: ismobile-shortcode.php:97
+msgid "Help"
+msgstr "Ayuda"
+
+#. Name of the plugin
+#: ismobile-shortcode.php:109
+msgid "WordPress isMobile() Shortcode"
+msgstr "WordPress isMobile() Shortcode"
+
+#: ismobile-shortcode.php:110
+msgid "isMobile()"
+msgstr "isMobile()"
+
+#: ismobile-shortcode.php:130
+msgid ""
+"This plugin works with the open source <a title=\"Mobile Detect Library\" "
+"target=\"_blank\" href=\"http://mobiledetect.net\" >Mobile Detect Library</a>"
+". You can get further information on its website."
+msgstr ""
+"Este plugin funciona con la biblioteca de código abierto <a title=\"Mobile "
+"Detect Library\" target=\"_blank\" href=\"http://mobiledetect.net\" >Mobile "
+"Detect Library</a>. Puedes obtener más información en su sitio web."
+
+#: ismobile-shortcode.php:138 ismobile-shortcode.php:221
+msgid "Your content"
+msgstr "Tu contenido"
+
+#: ismobile-shortcode.php:141
+msgid "Parameters"
+msgstr "Parámetros"
+
+#: ismobile-shortcode.php:144
+msgid ""
+"Filters the device where you want the content to be shown. <br />It could be "
+"more than one device, simply separate them with comma."
+msgstr ""
+"Filtra por el dispositivo donde quieres que se muestre el contenido. <br /> "
+"Podría ser más de un dispositivo, simplemente sepáralos con comas."
+
+#: ismobile-shortcode.php:146
+msgid ""
+"Shows Mobile Detect Library installed version. <br />Also shows two arrays. "
+"The first one contains the devices which the library detects and the second "
+"one contains the devices where you want to show the content."
+msgstr ""
+"Muestra la versión instalada de Mobile Detect Library. <br />También muestra "
+"dos arrays. El primero contiene los dispositivos que la biblioteca detecta y "
+"el segundo contiene los dispositivos en los que quieres mostrar el contenido."
+
+#: ismobile-shortcode.php:153
+msgid "Values"
+msgstr "Valores"
+
+#: ismobile-shortcode.php:156
+msgid "Shows content in Android devices."
+msgstr "Muestra el contenido en dispositivos Android."
+
+#: ismobile-shortcode.php:158
+msgid "Shows content on Chrome browser (Only works on mobile devices)."
+msgstr ""
+"Muestra el contenido en el navegador Chrome (solo funciona en dispositivos "
+"móviles)."
+
+#: ismobile-shortcode.php:160
+msgid "Shows content on a computer. Opposite to <u>mobile</u> option."
+msgstr ""
+"Muestra el contenido en ordenadores. Es opuesto a la opción <u>mobile</u>."
+
+#: ismobile-shortcode.php:162
+msgid "Shows content in iOS devices."
+msgstr "Muestra el contenido en dispositivos iOS."
+
+#: ismobile-shortcode.php:164
+msgid "Shows content on a iPad."
+msgstr "Muestra el contenido en un iPad."
+
+#: ismobile-shortcode.php:166
+msgid "Shows content on a iPhone."
+msgstr "Muestra el contenido en un iPhone."
+
+#: ismobile-shortcode.php:168
+msgid ""
+"Shows content on a mobile device (includes tablets and cell phones). "
+"Opposite to <u>desktop</u> option."
+msgstr ""
+"Muestra el contenido en dispositivos móviles (incluye tablets y teléfonos "
+"móviles). Es opuesto a la opción <u>desktop</u>."
+
+#: ismobile-shortcode.php:170
+msgid "Shows content on a cell phone."
+msgstr "Muestra el contenido en un teléfono móvil."
+
+#: ismobile-shortcode.php:172
+msgid "Shows content on Safari browser (Only works on mobile devices)."
+msgstr ""
+"Muestra el contenido en el navegador Safari (solo funciona en dispositivos "
+"móviles)."
+
+#: ismobile-shortcode.php:174
+msgid "Shows content on Samsung devices."
+msgstr "Muestra el contenido en dispositivos Samsung."
+
+#: ismobile-shortcode.php:176
+msgid "Shows content on a tablet."
+msgstr "Muestra el contenido en una tablet."
+
+#: ismobile-shortcode.php:183
+msgid "Examples"
+msgstr "Ejemplos"
+
+#: ismobile-shortcode.php:187
+msgid "Show the content on cell phones"
+msgstr "Muestra el contenido en teléfonos móviles"
+
+#: ismobile-shortcode.php:188
+msgid "I'm a cell phone"
+msgstr "Soy un teléfono móvil."
+
+#: ismobile-shortcode.php:191
+msgid "Show the content on computers and tablets"
+msgstr "Muestra el contenido en ordenadores y tablets."
+
+#: ismobile-shortcode.php:192
+msgid "I'm a tablet or maybe I'm a computer"
+msgstr "Soy una tablet o quizás un ordenador"
+
+#: ismobile-shortcode.php:195
+msgid "Show the content on a iPad"
+msgstr "Muestra el contenido en un iPad"
+
+#: ismobile-shortcode.php:196
+msgid "I'm a iPad"
+msgstr "Soy un iPad"
+
+#: ismobile-shortcode.php:200
+msgid "Show content in Android devices"
+msgstr "Muestra el contenido en dispositivos Android"
+
+#: ismobile-shortcode.php:210
+msgid "FAQ"
+msgstr "Preguntas más frecuentes"
+
+#: ismobile-shortcode.php:214
+msgid "Does <i>WordPress isMobile() Shortcode</i> support shortcodes?"
+msgstr "¿Funciona <i>WordPress isMobile() Shortcode</i> con shortcodes?"
+
+#: ismobile-shortcode.php:215
+msgid "Yes, content could be a plain text or even a shortcode."
+msgstr "Sí, el contenido puede ser un texto simple o incluso un shortcode."
+
+#: ismobile-shortcode.php:219
+msgid "What is Debug Mode?"
+msgstr "¿Qué es el modo de depuración?"
+
+#: ismobile-shortcode.php:220
+msgid ""
+"If <i>WordPress isMobile() Shortcode</i> doesn't work as expected you can "
+"enter Debug Mode in order to check what do the plugin detects and you have "
+"input. Notice that content is not shown."
+msgstr ""
+"Si <i>WordPress isMobile() Shortcode</i> no funciona como se esperabas, "
+"puedes usar el modo de depuración para verificar que detecta el plugin y "
+"cual es tu búsqueda. Ten en cuenta que el contenido no se muestra."
+
+#. Description of the plugin
+msgid ""
+"Simple plugin that shows or hides the content depending on the device, its "
+"brand or OS through the use of a shortcode. <u>Works with <a title=\"Mobile "
+"Detect Library\" target=\"_blank\" href=\"http://mobiledetect.net\" >Mobile "
+"Detect Library</a></u> version 2.8.33."
+msgstr ""
+"Sencillo plugin que muestra u oculta el contenido según el dispositivo, su "
+"marca o sistema operativo a través del uso de un shortcode. <u>Funciona con "
+"<a title=\"Mobile Detect Library\" target=\"_blank\" href=\"http:"
+"//mobiledetect.net\" >Mobile Detect Library</a></u> version 2.8.33."
+
+#. URI of the plugin
+msgid "https://www.dixitalmedia.com/#que-hacemos"
+msgstr "https://www.dixitalmedia.com/#que-hacemos"
+
+#. Author of the plugin
+msgid "Dixitalmedia"
+msgstr "Dixitalmedia"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.dixitalmedia.com/"
+msgstr "https://www.dixitalmedia.com/"
